@@ -1,0 +1,5 @@
+*.txt
+_CREATE Bank.sql
+_CREATE PROCEDURE.sql
+**/bin
+**/obj

@@ -1,0 +1,42 @@
+{
+  "workbench.colorCustomizations": {
+    "[freeCodeCamp Dark Theme]": {
+      "editor.background": "#000000",
+      "sideBar.background": "#000000",
+      "sideBar.foreground": "#ffffff"
+    },
+    "[Monokai]": {
+      "sideBar.foreground": "#c7c7c7",
+      "sideBar.background": "#0b1014",
+      "sideBarSectionHeader.background": "#0b1014",
+      "editor.background": "#000000",
+      "breadcrumb.background": "#0b1014",
+      "statusBar.background": "#0b1014",
+      "statusBar.foreground": "#626262",
+      "minimap.background": "#0b1014",
+      "titleBar.activeBackground": "#0b1014",
+      "editorGroupHeader.tabsBackground": "#0b1014",
+      "activityBar.background": "#0b1014",
+      "tab.inactiveBackground": "#0b1014",
+      "tab.activeBackground": "#0b1014",
+      "tab.activeBorder": "#ffd866"
+    },
+    "[Visual Studio Dark]": {
+      "list.inactiveSelectionBackground": "#722828",
+      "sideBar.background": "#000000",
+      "sideBar.foreground": "#ffffff",
+      "editor.background": "#000000",
+      "editor.foreground": "#944747",
+      "sideBarSectionHeader.background": "#c73636",
+      "sideBarSectionHeader.foreground": "#000000",
+      "activityBar.border": "#423d3d",
+      "statusBar.background": "#415081",
+      "scrollbarSlider.activeBackground": "#77D4CB",
+      "scrollbarSlider.hoverBackground": "#8CE6DA",
+      "badge.background": "#81CA91"
+    },
+    "activityBar.background": "#59140B",
+    "titleBar.activeBackground": "#7C1C0F",
+    "titleBar.activeForeground": "#FFFCFC"
+  }
+}
