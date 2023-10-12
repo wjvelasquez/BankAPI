@@ -1,10 +1,12 @@
 using BankAPI.Data;
 using BankAPI.Data.BankModels;
 using BankAPI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BankAPI.Controller;
 
+[Authorize]
 [ApiController]
 [Route("api/[Controller]")]
 
